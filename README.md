@@ -10,3 +10,12 @@
 
 [Backlog](https://github.com/maceyraejones/symmetrical-journey/wiki/Backlog)
 
+# User Story (points: medium)
+
+**As a...** 
+
+
+**I want to...** 
+
+
+**So I can...** 
