@@ -1,10 +1,12 @@
 # Welcome to Symmetrical-Journey!
 
-Link to "Meet the Team"
-https://github.com/maceyraejones/symmetrical-journey/wiki/Meet-the-Team
+### Links
 
-Link to "Description of Product"
-https://github.com/maceyraejones/symmetrical-journey/wiki/Description-of-Product
+[Meet the Team](https://github.com/maceyraejones/symmetrical-journey/wiki/Meet-the-Team)
 
-Link to "Developmental Approach"
-https://github.com/maceyraejones/symmetrical-journey/wiki/Developmental-Approach
+[Product Proposal](https://github.com/maceyraejones/symmetrical-journey/wiki/Meet-the-Team)
+
+[Development](https://github.com/maceyraejones/symmetrical-journey/wiki/Product-Proposal)
+
+[Backlog]()
+
