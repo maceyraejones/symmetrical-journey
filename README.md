@@ -20,7 +20,19 @@
 
 
 ## Setup Node, Express, Mongoose
-- 
+- Install [Node](https://nodejs.org/en/download/)
+- Install Express
+```
+npm install express
+```
+- Install React
+```
+npm install react
+```
+- Install Mongoose
+```
+npm install mongoose
+```
 
 ## Create Project in Visual Studio Code
 - 
