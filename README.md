@@ -43,4 +43,5 @@ npm install mongoose
 - Use Heroku
 
 ## Acceptance Criteria 
-- [ ] Hello
+- [ ] Use Backend, Frontend, Database
+- [ ] 
