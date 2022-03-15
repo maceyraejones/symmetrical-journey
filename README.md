@@ -35,7 +35,9 @@ npm install mongoose
 ```
 
 ## Test Locally
-- 
+- localhost: 5000 for Backend
+- localhost: 3000 for Frontend
+- Will we use Nodemon concurrently to make the two servers run at the same time
 
 ## Deploy App to Hosting Service
 - 
