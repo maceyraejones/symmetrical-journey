@@ -10,13 +10,13 @@
 
 # User Story (Points = Med👕)
 
-**As a...** 
+**As a...** a developer
 
 
-**I want to...** 
+**I want to...** to make a E-commerce website
 
 
-**So I can...** 
+**So I can...** I can sell items 
 
 
 ## Setup Node, Express, Mongoose
