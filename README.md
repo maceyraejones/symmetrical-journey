@@ -19,7 +19,7 @@
 **So I can...** sell items 
 
 
-## Setup Node, Express, Mongoose
+## Setup Node, Express, React, and Mongoose
 - Install [Node](https://nodejs.org/en/download/)
 - Install Express
 ```
