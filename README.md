@@ -16,7 +16,7 @@
 **I want to...** buy, trade, and sell cyrptocurrency
 
 
-**So I can...** make money 🤑
+**So I can...** make $chmoney 🤑
 
 
 ## Setup Node, Express, React, and Mongoose
