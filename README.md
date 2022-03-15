@@ -40,7 +40,7 @@ npm install mongoose
 - Will we use Nodemon concurrently to make the two servers run at the same time
 
 ## Deploy App to Hosting Service
-- 
+- Use Heroku
 
 ## Acceptance Criteria 
 - [ ] Hello
