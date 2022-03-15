@@ -10,13 +10,13 @@
 
 # User Story (Points = Med👕)
 
-**As a...** a developer
+**As a...** a crypto consiuer
 
 
-**I want to...** to make a E-commerce website
+**I want to...** buy, trade, and sell cyrptocurrency
 
 
-**So I can...** sell items 
+**So I can...** make money 🤑
 
 
 ## Setup Node, Express, React, and Mongoose
@@ -33,12 +33,6 @@ npm install react
 ```
 npm install mongoose
 ```
-
-## Create Project in Visual Studio Code
-- 
-
-## Connecting to Mongoose
-- 
 
 ## Test Locally
 - 
