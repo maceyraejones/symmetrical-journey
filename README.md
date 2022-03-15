@@ -16,7 +16,7 @@
 **I want to...** to make a E-commerce website
 
 
-**So I can...** I can sell items 
+**So I can...** sell items 
 
 
 ## Setup Node, Express, Mongoose
