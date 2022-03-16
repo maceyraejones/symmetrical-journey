@@ -19,7 +19,7 @@
 **So I can...** make $chmoney 🤑
 
 
-## Setup Node, Express, React, and Mongoose
+## Setup Node, Express, React, and Mongoose (Under Construction 🚧)
 - Install [Node](https://nodejs.org/en/download/)
 - Install Express
 ```
@@ -34,14 +34,13 @@ npm install react
 npm install mongoose
 ```
 
-## Test Locally
+## Test Locally (Under Construction 🚧)
 - localhost: 5000 for Backend
 - localhost: 3000 for Frontend
 - Will we use Nodemon concurrently to make the two servers run at the same time
 
-## Deploy App to Hosting Service
+## Deploy App to Hosting Service (Under Construction 🚧)
 - Use Heroku
 
-## Acceptance Criteria 
+## Acceptance Criteria (Under Construction 🚧)
 - [ ] Use Backend, Frontend, Database
-- [ ] 
