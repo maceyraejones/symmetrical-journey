@@ -37,7 +37,7 @@ npm install mongoose
 ```
 npm install axios
 ```
-- Install thunk (middleware where for react )
+- Install thunk (middleware for react )
 ```
 npm install thunk
 ```
