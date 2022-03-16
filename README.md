@@ -33,7 +33,12 @@ npm install react
 ```
 npm install mongoose
 ```
-
+```
+npm install axios
+```
+```
+npm install thunk
+```
 ## Test Locally (Under Construction 🚧)
 - localhost: 5000 for Backend
 - localhost: 3000 for Frontend
