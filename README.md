@@ -33,7 +33,7 @@ npm install react
 ```
 npm install mongoose
 ```
-- Install axios (api fetch dependentcy)
+- Install axios (api fetch dependency)
 ```
 npm install axios
 ```
