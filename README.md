@@ -10,7 +10,7 @@
 
 # User Story (Points = Med👕)
 
-**As a...** a crypto consiuer
+**As a...** a crypto connoisseur
 
 
 **I want to...** buy, trade, and sell cyrptocurrency
