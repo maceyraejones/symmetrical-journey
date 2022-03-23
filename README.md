@@ -5,11 +5,11 @@ Links:
 - [Product Backlog](https://github.com/maceyraejones/symmetrical-journey/projects/1) 
 
 # User Story (Story Points = Med👕)
-**As a...** 
+**As a...** dog/cat lover
 
-**I want...** 
+**I want to...** adopt a pet
 
-**So that...** 
+**So that...** I can have a friend 🥰
 
 
 # Getting Started with Create React App
