@@ -1,3 +1,17 @@
+# Welcome to Symmetrical-Journey!
+Links:
+- [Meet the Team](https://github.com/maceyraejones/symmetrical-journey/wiki) 
+- [Product Proposal](https://github.com/maceyraejones/symmetrical-journey/wiki/Product-Proposal) 
+- [Product Backlog](https://github.com/maceyraejones/symmetrical-journey/projects/1) 
+
+# User Story (Story Points = Med👕)
+**As a...** 
+
+**I want...** 
+
+**So that...** 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
