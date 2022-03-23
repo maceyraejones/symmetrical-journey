@@ -11,6 +11,13 @@ Links:
 
 **So that...** I can have a friend 🥰
 
+## Minimum Acceptance Criteria
+- [ ] User logs in
+- [ ] User goes to website
+- [ ] User swipes through different animals, swiping left
+- [ ] When user has picked the animal, they swipe right
+- [ ] User views more information on animal
+- [ ] User checks out
 
 # Getting Started with Create React App
 
