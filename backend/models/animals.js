@@ -1,18 +1,24 @@
 const mongoose = require("mongoose");
 
+
 const CardSchema = mongoose.Schema({
 
 
 name: {type: String,
-    require: false
+    require: true
 
 
 },
-imgUrl: {
+age: {type: Number,
+    require: true,
 
-    type: String,
-    require: false
+},
+image: {
+
+    type:String,
+    require: true,
 }
+
 
 
 

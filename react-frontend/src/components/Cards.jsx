@@ -9,6 +9,11 @@ const Cards = () => {
 
   const [loading, setLoading] = useState(true);
 
+
+
+  
+ 
+
     const [animals, SetAnimals] = useState([0])
 
      const navigate = useNavigate();
@@ -64,7 +69,7 @@ const Cards = () => {
   return (
     <div className='animalsCards'>
         <div className='animalsCards__container'>
-        <h1>animals cards</h1>
+        <h1>run out of card</h1>
   
 {animals.map((animal)=> 
 
@@ -72,7 +77,7 @@ const Cards = () => {
 <TinderCard
 
 className='swipe'
-key={animal.name}
+key={animal.id}
 preventSwipe={["up", "down"]}
 onSwipe={(dir) => swiped(dir, animal.name)}
 onCardLeftScreen={()=>outOffFrame(animal.name) }
@@ -80,7 +85,7 @@ onCardLeftScreen={()=>outOffFrame(animal.name) }
 
 <div
             style={{
-              backgroundImage: `url(${animal.imgUrl})` /* Add backticks here */,
+              backgroundImage: `url(${animal.image})` /* Add backticks here */,
             }}
             className="card"
           >
@@ -100,6 +105,6 @@ onCardLeftScreen={()=>outOffFrame(animal.name) }
 
     </div>
   )
-}
-
+          }
+        
 export default Cards
